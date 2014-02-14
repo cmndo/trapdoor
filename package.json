@@ -1,0 +1,23 @@
+{
+  "name": "trapdoor",
+  "version": "0.1.0",
+  "description": "Drop into an interactive REPL anywhere in your Node application",
+  "main": "lib/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aaron524/trapdoor.git"
+  },
+  "keywords": [
+    "REPL",
+    "debugging",
+    "tools",
+    "debug",
+    "node"
+  ],
+  "author": "Aaron M. Shea (aaron524)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaron524/trapdoor/issues"
+  },
+  "homepage": "https://github.com/aaron524/trapdoor"
+}
