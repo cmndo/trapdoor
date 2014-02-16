@@ -1,7 +1,7 @@
 {
   "name": "trapdoor",
-  "version": "1.0.1",
-  "description": "Drop into an interactive REPL anywhere in your Node application",
+  "version": "1.0.2",
+  "description": "Drop into an interactive  eval loop to modify and evaluate expressions in your code.",
   "main": "lib/main.js",
   "repository": {
     "type": "git",
