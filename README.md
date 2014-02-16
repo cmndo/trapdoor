@@ -1,3 +1,9 @@
 # Trapdoor
 
-Just include `require('trapdoor')` in your node app and you'll drop into a REPL
+To break your script and drop into an eval loop with access to local variables:
+
+
+```
+require('trapdoor');
+eval(trapdoor.open);
+```

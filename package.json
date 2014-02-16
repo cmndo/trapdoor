@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/aaron524/trapdoor/issues"
   },
-  "homepage": "https://github.com/aaron524/trapdoor"
+  "homepage": "https://github.com/aaron524/trapdoor",
+  "dependencies": {
+    "readlinesync": "~0.1.1"
+  }
 }
