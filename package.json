@@ -1,6 +1,6 @@
 {
   "name": "trapdoor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Drop into an interactive REPL anywhere in your Node application",
   "main": "lib/main.js",
   "repository": {
