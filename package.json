@@ -1,6 +1,6 @@
 {
   "name": "trapdoor",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Drop into an interactive  eval loop to modify and evaluate expressions in your code.",
   "main": "lib/main.js",
   "repository": {
@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/aaron524/trapdoor",
   "dependencies": {
-    "readlinesync": "~0.1.1"
+    "readlinesync": "~0.1.1",
+    "JASON": "~0.1.3",
+    "cardinal": "~0.4.4"
   }
 }
